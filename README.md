@@ -1,3 +1,4 @@
+This is really amazing for our use.
 [PolySpider] - New Android Crawler
 ==========
 Python(v2.7) and Scrapy(v0.20.2) are used in this project, which is mainly designed for Android app synchronizing and categorizing by focusing on grabing data from Android Markets.
